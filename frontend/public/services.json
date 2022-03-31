@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "service": "Home Barbering",
+    "shop": "Spicy Hair-Cut",
+    "price": "Ghc20.00",
+    "time": "9:00 AM - 5:00 PM",
+    "date": {
+      "monday": {
+        "morning": "9:00 AM - 11:00 AM",
+        "evening": "2:00 PM - 5:00 PM"
+      },
+      "tuesday": {
+        "morning": "9:00 AM - 11:00 AM",
+        "evening": "2:00 PM - 5:00 PM"
+      },
+      "wednesday": {
+        "morning": "9:00 AM - 11:00 AM",
+        "evening": "2:00 PM - 5:00 PM"
+      },
+      "thursday": {
+        "morning": "9:00 AM - 11:00 AM",
+        "evening": "2:00 PM - 5:00 PM"
+      },
+      "friday": {
+        "morning": "9:00 AM - 11:00 AM",
+        "evening": "2:00 PM - 5:00 PM"
+      },
+      "saturday": {
+        "morning": "9:00 AM - 11:00 AM",
+        "evening": "2:00 PM - 5:00 PM"
+      }
+    }
+  }
+]

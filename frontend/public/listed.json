@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "service": "Barbering",
+    "shop": "Spicy Hair-Cut",
+    "price": "Ghc20.00",
+    "days": "Monday - Friday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 2,
+    "service": "Braiding",
+    "shop": "Saloon de Montana",
+    "price": "Ghc100.00",
+    "days": "Monday - Saturday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 3,
+    "service": "Nail Dressing",
+    "shop": "Trish Nail Techniques",
+    "price": "Ghc25.00",
+    "days": "Monday - Saturday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 4,
+    "service": "Laundry",
+    "shop": "Louis Home Clean",
+    "price": "Ghc50.00 - Ghc200.00",
+    "days": "Monday - Sunday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 5,
+    "service": "Barbering",
+    "shop": "The Last Two",
+    "price": "Ghc12.50",
+    "days": "Monday - Saturday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 6,
+    "service": "Barbering",
+    "shop": "HashTag Fresh",
+    "price": "Ghc20.00",
+    "days": "Monday - Saturday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 7,
+    "service": "Laundry",
+    "shop": "Wise Way Launry",
+    "price": "Ghc35.00 - Ghc150.00",
+    "days": "Monday - Saturday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 8,
+    "service": "Laundry",
+    "shop": "De'Had Laundry",
+    "price": "Ghc80.00",
+    "days": "Monday - Saturday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 9,
+    "service": "Hair Dressing",
+    "shop": "Beautiful Baby Saloon",
+    "price": "Ghc20.00 and above",
+    "days": "Monday - Saturday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 10,
+    "service": "Massage",
+    "shop": "Escort SPA",
+    "price": "Ghc20.00",
+    "days": "Monday - Saturday",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "id": 11,
+    "service": "Occasion Decoration",
+    "shop": "Beat's Deco",
+    "price": "Ghc200.00 and above",
+    "days": "Monday - Saturday",
+    "time": "9:00 AM - 5:00 PM"
+  }
+]

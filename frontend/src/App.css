@@ -1,0 +1,87 @@
+.App {
+  min-height: 100vh;
+  width: 95vw;
+  /* border: 1px solid black; */
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #30011e;
+}
+.form,
+.display-bookings {
+  border: 1.3px solid rgb(196, 196, 196);
+  border-radius: 10px;
+  background-color: white;
+}
+
+.form {
+  min-height: 70vh;
+  width: 35%;
+  /* padding: 10px; */
+}
+
+/* .form:hover,
+.display-bookings:hover {
+  box-shadow: 1px 1px 5px 1px rgb(75, 75, 75);
+  border: none;
+} */
+
+.form > h3 {
+  color: red;
+  font-size: 20px;
+}
+
+.display-bookings {
+  min-height: 70vh;
+  width: 60%;
+  align-content: center;
+}
+
+#book {
+  margin-top: 0.5rem;
+  background-color: rgb(10, 35, 10);
+  color: white;
+  border-radius: 10px;
+  border: none;
+  padding: 8px 40px;
+}
+
+.display-bookings > h2 {
+  color: red;
+  font-size: 2.5rem;
+}
+
+
+#confirm {
+  height: 2rem;
+  /* padding: 10px 20px; */
+  border: none;
+  background-color: green;
+  color: white;
+  margin: 0.5rem;
+  border-radius: 5px;
+}
+#confirm:hover{
+  background-color: #30011e;
+}
+
+.first-roll {
+  height: 3rem;
+  width: 52vw;
+  /* border: 1px solid black; */
+  /* align-items: center; */
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px 0 10px;
+  margin-left: 1rem;
+  border-radius: 10px;
+  box-shadow: 0.5px 0.5px 2px 0.5px grey;
+}
+
+th, td {
+  height: 2rem;
+  width: 50vw;
+  border: 0.5px solid rgb(234, 231, 231);
+  /* justify-content: space-between; */
+}
